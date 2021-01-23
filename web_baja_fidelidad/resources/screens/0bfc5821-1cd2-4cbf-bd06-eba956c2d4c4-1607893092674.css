@@ -1,0 +1,84 @@
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 > #backgroundBox {
+  position: absolute;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  max-width: 2339.0px;
+  max-height: 1653.0px;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Image_1 {
+  position: absolute;
+  width: 2339.0px;
+  height: 1653.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Image_1 {
+  box-shadow: none;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Hotspot_1 {
+  position: absolute;
+  width: 100.0px;
+  height: 80.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Hotspot_2 {
+  position: absolute;
+  width: 519.0000000000009px;
+  height: 382.0000000000001px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Hotspot_3 {
+  position: absolute;
+  width: 430.0px;
+  height: 342.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Hotspot_4 {
+  position: absolute;
+  width: 519.0000000000009px;
+  height: 356.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 #s-Hotspot_5 {
+  position: absolute;
+  width: 407.0000000000009px;
+  height: 324.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-0bfc5821-1cd2-4cbf-bd06-eba956c2d4c4 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
